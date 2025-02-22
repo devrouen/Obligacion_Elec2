@@ -1,0 +1,7 @@
+Admission Type,Gender,PatientCount
+Elective,female,4708
+Elective,male,4699
+Emergency,female,4551
+Emergency,male,4423
+Urgent,female,4598
+Urgent,male,4728
